@@ -1,6 +1,8 @@
-# 👩‍💻 Maria Veríssimo
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Maria%20Veríssimo&fontSize=35&fontColor=ffffff" />
+</p>
 
-## 💫 Desenvolvedora Front-End | Em busca de estágio
+<h2 align="center">💻 Desenvolvedora Front-End | Em busca de estágio</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -14,18 +16,18 @@
 
 ## 🚀 Sobre mim
 Estudante e desenvolvedora iniciante focada em desenvolvimento web.  
-Buscando minha primeira oportunidade de estágio na área de tecnologia.
+Buscando minha primeira oportunidade de estágio na área de tecnologia, com foco em crescimento profissional através de projetos práticos.
 
 ---
 
 ## 🎯 Objetivo
-Conquistar uma vaga de estágio em desenvolvimento de software e evoluir através de projetos reais.
+Conquistar uma vaga de estágio em desenvolvimento front-end, aplicando minhas habilidades em projetos reais e evoluindo continuamente como desenvolvedora.
 
 ---
 
 ## 💻 Habilidades técnicas
 
-**Desenvolvimento:**
+**Desenvolvimento Web:**
 - HTML5
 - CSS3
 - JavaScript
@@ -36,13 +38,23 @@ Conquistar uma vaga de estágio em desenvolvimento de software e evoluir atravé
 - GitHub Desktop
 - Visual Studio Code
 
-**Design:**
+**Design e interface:**
 - Figma
 - Wireframe
-- UI/UX básico
+- Noções de UI/UX
 
 **Frameworks:**
 - Bootstrap
+
+---
+
+## 🤝 Soft Skills
+
+- Comunicação
+- Organização
+- Aprendizado rápido
+- Proatividade
+- Trabalho em equipe
 
 ---
 
@@ -61,7 +73,7 @@ Conquistar uma vaga de estágio em desenvolvimento de software e evoluir atravé
 ## 📌 Projetos em destaque
 
 - 🔗 **Currículo Dev**  
-Portfólio profissional com projetos organizados  
+Portfólio profissional com organização de currículo e projetos  
 https://github.com/m4ria-verissimo/curriculo-dev
 
 - 🔗 **Projeto Lâmpada**  
@@ -69,7 +81,7 @@ Projeto de lógica com JavaScript
 https://github.com/m4ria-verissimo/projeto-lampada
 
 - 🔗 **Insta Clone**  
-Interface de rede social (Front-End)  
+Interface de rede social com foco em front-end  
 https://github.com/m4ria-verissimo/insta-clone
 
 - 🔗 **Meu Financeiro**  
@@ -82,11 +94,25 @@ https://m4ria-verissimo.github.io/biomedica/
 
 ---
 
-## 📈 Em constante evolução
-Sempre aprendendo, praticando e evoluindo através de projetos reais.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m4ria-verissimo&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m4ria-verissimo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Em busca da minha primeira oportunidade
+Estou em busca de uma vaga de estágio em desenvolvimento front-end para aplicar minhas habilidades, aprender com projetos reais e evoluir como desenvolvedora.
+
+Tenho comprometimento com aprendizado contínuo e foco em crescimento profissional.
 
 ---
 
 ## 📫 Contato
 - GitHub: https://github.com/m4ria-verissimo
-- LinkedIn: 
+- LinkedIn: (adicione aqui)
