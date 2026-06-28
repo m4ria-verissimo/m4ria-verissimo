@@ -115,4 +115,4 @@ Tenho comprometimento com aprendizado contínuo e foco em crescimento profission
 
 ## 📫 Contato
 - GitHub: https://github.com/m4ria-verissimo
-- LinkedIn: (adicione aqui)
+- LinkedIn: https://www.linkedin.com/in/MariaEduarda-Verissimo
