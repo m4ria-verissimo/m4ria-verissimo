@@ -1,33 +1,45 @@
-# 👩🏽‍💻 Maria Veríssimo
+# 👩‍💻 Maria Veríssimo
+
+## 💫 Desenvolvedora Front-End | Em busca de estágio
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
 
 ## 🚀 Sobre mim
 Estudante e desenvolvedora iniciante focada em desenvolvimento web.  
-Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, construindo experiência através de projetos práticos.
+Buscando minha primeira oportunidade de estágio na área de tecnologia.
 
 ---
 
 ## 🎯 Objetivo
-Conquistar uma vaga de estágio em desenvolvimento de software, aplicando e evoluindo minhas habilidades em projetos reais.
+Conquistar uma vaga de estágio em desenvolvimento de software e evoluir através de projetos reais.
 
 ---
 
 ## 💻 Habilidades técnicas
 
-**Linguagens de programação:**
-- JavaScript
+**Desenvolvimento:**
 - HTML5
 - CSS3
+- JavaScript
 
-**Ferramentas de desenvolvimento:**
+**Ferramentas:**
 - Git
 - GitHub
 - GitHub Desktop
 - Visual Studio Code
 
-**Design e interface:**
+**Design:**
 - Figma
 - Wireframe
-- Noções de UI/UX
+- UI/UX básico
 
 **Frameworks:**
 - Bootstrap
@@ -36,45 +48,45 @@ Conquistar uma vaga de estágio em desenvolvimento de software, aplicando e evol
 
 ## 📚 Cursos e formação
 
-- Aprendizagem profissional de Qualificações de Vendas — SENAC (2024)  
-- Excel — Fundação Bradesco (2023)  
-- Word — Prime Cursos (2023)  
-- Lógica de Programação — Voitto (2025)  
-- Programador Web — Instituto Federal (2025)  
-- Front-End — Recode (2025)  
-- Desenvolvimento de Sistemas Web (HTML e CSS) — FGV Online (2025)
+- SENAC — Qualificações de Vendas (2024)  
+- Fundação Bradesco — Excel (2023)  
+- Prime Cursos — Word (2023)  
+- Voitto — Lógica de Programação (2025)  
+- Instituto Federal — Programador Web (2025)  
+- Recode — Front-End (2025)  
+- FGV Online — HTML e CSS (2025)
 
 ---
 
 ## 📌 Projetos em destaque
 
 - 🔗 **Currículo Dev**  
-Portfólio profissional com organização de currículo e apresentação de projetos.  
+Portfólio profissional com projetos organizados  
 https://github.com/m4ria-verissimo/curriculo-dev
 
 - 🔗 **Projeto Lâmpada**  
-Projeto focado em lógica e interação com JavaScript.  
+Projeto de lógica com JavaScript  
 https://github.com/m4ria-verissimo/projeto-lampada
 
 - 🔗 **Insta Clone**  
-Interface inspirada em rede social com foco em front-end.  
+Interface de rede social (Front-End)  
 https://github.com/m4ria-verissimo/insta-clone
 
 - 🔗 **Meu Financeiro**  
-Sistema simples de controle financeiro pessoal.  
+Sistema de controle financeiro pessoal  
 https://github.com/m4ria-verissimo/meu-financeiro
 
 - 🔗 **Biomédica (Site)**  
-Site institucional desenvolvido para prática de front-end.  
+Site institucional desenvolvido com HTML e CSS  
 https://m4ria-verissimo.github.io/biomedica/
 
 ---
 
 ## 📈 Em constante evolução
-Estou sempre desenvolvendo novos projetos para evoluir minhas habilidades e ganhar experiência prática na área de tecnologia.
+Sempre aprendendo, praticando e evoluindo através de projetos reais.
 
 ---
 
 ## 📫 Contato
 - GitHub: https://github.com/m4ria-verissimo
-- LinkedIn: https://www.linkedin.com/in/MariaEduarda-Verissimo
+- LinkedIn: 
