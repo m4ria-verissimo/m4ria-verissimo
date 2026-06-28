@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=180&section=header&text=Maria%20Veríssimo&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=180&section=header&text=Maria%20Veríssimo&fontSize=35&fontColor=ffffff" />
 </p>
 
 <h2 align="center">💻 Desenvolvedora Front-End | Em busca de estágio</h2>
